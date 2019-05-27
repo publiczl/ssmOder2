@@ -1,0 +1,21 @@
+header{
+    height: 48px;
+    line-height: 48px;
+
+}
+header h1{
+    background: url("../../static/images/buy.png") 32px center;
+    padding-left:88px;
+    text-shadow: 3px 1px #000;
+    color: #fff;
+    font-size: 22px;
+    float: left;
+
+}
+
+header .header_info{
+    float: right;
+    margin-right: 50px;
+    color: #fff;
+
+}
